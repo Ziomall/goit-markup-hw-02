@@ -1,0 +1,39 @@
+.body{
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+}
+.h1{
+    font-weight: 700;
+}
+.h2{
+    font-weight: 700;
+}
+.h3{
+    font-weight: 500;
+    background-color: #FFFFFF;
+}
+.p{
+    font-weight: 400;
+    line-height: 1.5em;
+    background-color: #FFFFFF;
+}
+.header{
+    background-color: #E7E9FC;
+}
+.section1{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+.section3{
+    background-color: #F4F4FD;
+}
+.footer{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+.button{
+    cursor: pointer;
+}
+a:hover{
+    color: red;
+}
