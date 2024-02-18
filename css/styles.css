@@ -75,7 +75,7 @@
     background-color: #2E2F42;
     color: #FFFFFF;
 }
-.button, button:hover{
+.button, button:hover, button:focus{
     cursor: pointer;
     background-color: #404BBF;
     font-family: "Roboto", sans-serif;
