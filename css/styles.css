@@ -3,23 +3,25 @@
     color: #434455;
     background-color: #FFFFFF;
 }
-.h_a{
+.hea_a{
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
 }
-.h_b{
+.hea_b{
     font-weight: 700;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-.h_c{
+.hea_c{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
 .paragraph{
@@ -50,7 +52,7 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.45em;
+    letter-spacing: 0.04em;
     color: #ffffff;
 }
 a:hover{
@@ -95,4 +97,12 @@ a:hover{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
+}
+.button:hover{
+    background-color: #404BBF;
+}
+
+.lis{
+    background-color: #FFFFFF;
+
 }
