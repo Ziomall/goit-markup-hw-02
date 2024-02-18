@@ -75,7 +75,7 @@
     background-color: #2E2F42;
     color: #FFFFFF;
 }
-.button, .button:hover, .button:focus{
+.button{
     background-color: #404BBF;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
@@ -85,6 +85,9 @@
     letter-spacing: 0.04em;
     color: #ffffff;
     
+}
+.button:hover, .button:focus{
+    background-color: #404BBF;
 }
 a:hover, a:focus{
     color: #404bbf;
