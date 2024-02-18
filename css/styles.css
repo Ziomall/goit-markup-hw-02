@@ -75,9 +75,9 @@
     background-color: #2E2F42;
     color: #FFFFFF;
 }
-.button{
+.button, button:hover{
     cursor: pointer;
-    background-color: #4D5AE5;
+    background-color: #404BBF;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -89,9 +89,6 @@ a:hover, a:focus{
     color: #404bbf;
     background-color: #404bbf;
 }
-
-
-
 
 .logo{
     font-family: "Raleway", sans-serif;
@@ -131,9 +128,6 @@ a:hover, a:focus{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
-}
-.button:hover{
-    background-color: #404BBF;
 }
 
 .lis{
