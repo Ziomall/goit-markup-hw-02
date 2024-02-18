@@ -64,8 +64,12 @@
     background-color: #2E2F42;
     color: #FFFFFF;
 }
-.section3{
+.section_c{
     background-color: #F4F4FD;
+    color: #2e2f42;
+}
+.section_d{
+    color: #2e2f42;
 }
 .footer{
     background-color: #2E2F42;
@@ -85,7 +89,7 @@ a:hover{
     color: #404bbf;
 }
 
-a:focus{
+a:focus, a:active{
     background-color: #404bbf;
 }
 
