@@ -48,6 +48,7 @@
     line-height: 1.11;
     letter-spacing: 0.02em;
     background-color: #2e2f42;
+    color: #FFFFFF;
     text-align: center;
     text-transform: capitalize;
 }
@@ -66,7 +67,7 @@
     color: #FFFFFF;
 }
 .section_b{
-    color: #2E2F42;
+    color: #2e2f42;
 }
 .section_c{
     background-color: #F4F4FD;
