@@ -16,9 +16,8 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.nag_kol{
-    color: #2e2f42
-}
+
+
 .hsek_b{
     font-weight: 700;
     font-size: 20px;
@@ -65,6 +64,9 @@
 .section_a{
     background-color: #2E2F42;
     color: #FFFFFF;
+}
+.section_b{
+    color: #2E2F42;
 }
 .section_c{
     background-color: #F4F4FD;
