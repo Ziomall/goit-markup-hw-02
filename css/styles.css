@@ -60,7 +60,7 @@ a:hover{
 }
 
 a:focus{
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .logo{
