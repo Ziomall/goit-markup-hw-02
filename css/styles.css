@@ -18,11 +18,11 @@
     color: #2e2f42;
 }
 .hsek_b{
+    color: #2e2f42;
     font-weight: 700;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
 }
 
 .hea_c{
@@ -77,13 +77,13 @@
 }
 .button, button:hover, button:focus{
     cursor: pointer;
-    background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    background-color: #4D5AE5;
 }
 a:hover, a:focus{
     color: #404bbf;
