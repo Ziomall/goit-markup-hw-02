@@ -17,12 +17,38 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.hsek_b{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .hea_c{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
+}
+.hsek_c{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    background-color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+}
+.hsek_d{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    background-color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
 }
 .paragraph{
     font-weight: 400;
