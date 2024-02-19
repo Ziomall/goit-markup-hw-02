@@ -114,7 +114,7 @@ a:hover{
     color: #2e2f42;
     text-decoration: none;
 }
-.link_a:focus{
+.link_a:focus, .link_a:active{
    
     color: #404bbf;
 }
