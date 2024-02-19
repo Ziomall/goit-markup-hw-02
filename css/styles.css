@@ -34,21 +34,18 @@
     background-color: #FFFFFF;
 }
 .hsek_c{
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    background-color: #2e2f42;
     text-align: center;
     text-transform: capitalize;
 }
 .hsek_d{
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    background-color: #2e2f42;
-    color: #FFFFFF;
     text-align: center;
     text-transform: capitalize;
 }
@@ -60,7 +57,7 @@
     color:  #434455;
 }
 .header{
-    background-color: #E7E9FC;
+    
 }
 .section_a{
     background-color: #2E2F42;
@@ -94,9 +91,8 @@
 .button:hover, .button:focus{
     background-color: #404BBF;
 }
-a:hover, a:focus{
+a:hover{
     color: #404bbf;
-    background-color: #404bbf;
 }
 
 .logo{
@@ -116,7 +112,11 @@ a:hover, a:focus{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
+    text-decoration: none;
+}
+.link_a:focus{
+    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .address{
@@ -141,5 +141,9 @@ a:hover, a:focus{
 
 .lis{
     background-color: #FFFFFF;
+    list-style: none;
 
+}
+.li{
+    list-style: none;
 }
