@@ -153,6 +153,6 @@ a:hover{
 .list{
     list-style: none;
 }
-.list:focus, .list:active, .list:hover{
+.list:focus, .list:active, .list:hover, .list:visited{
     color: #404bbf;
 }
