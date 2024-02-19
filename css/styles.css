@@ -150,6 +150,6 @@ a:hover{
 .list{
     list-style: none;
 }
-.list:focus{
+.list:focus, .list:active{
     color: #404bbf;
 }
