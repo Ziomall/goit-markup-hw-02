@@ -115,7 +115,7 @@ a:hover{
     text-decoration: none;
 }
 .link_a:focus{
-    color: #404bbf;
+   
     background-color: #404bbf;
 }
 
@@ -149,8 +149,4 @@ a:hover{
 }
 .list{
     list-style: none;
-    
-}
-.list:focus{
-    color: #404bbf;
 }
