@@ -147,7 +147,10 @@ a:hover{
 .li{
     list-style: none;
 }
-.list, .list:focus{
+.list{
     list-style: none;
+    
+}
+.list:focus{
     color: #404bbf;
 }
